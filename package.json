@@ -1,0 +1,26 @@
+{
+  "name": "fast-md5-file",
+  "version": "1.0.2",
+  "description": "A fast tool for file MD5.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "file-crypt",
+    "file crypt",
+    "MD5",
+    "Crypt",
+    "encryption",
+    "encrypt",
+    "md5-file"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baronvalaa/fast-md5-file.git"
+  },
+  "author": "chenbinfa",
+  "license": "Apache License 2.0",
+  "dependencies": {
+  }
+}
